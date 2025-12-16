@@ -14,3 +14,5 @@ if st.button("💘 Tính số ngày yêu"):
     st.success(
         f"💞 {ten_1} và {ten_2} đã yêu nhau {so_ngay_yeu} ngày 💞"
     )
+    
+st.caption("Được tạo bởi Luong Quoc Khanh")
